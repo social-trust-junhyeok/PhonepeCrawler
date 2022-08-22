@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhonepeCrawler</string>
+    <string name="accessibility_description">hello world</string>
+    <string name="package_name">com.phonepe.app.business</string>
+</resources>
